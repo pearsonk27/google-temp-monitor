@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for google_temp_monitor."""
 
 from .cli import main  # pragma: no cover
 
